@@ -1,0 +1,12 @@
+server:
+  port: 8100
+spring:
+  datasource:
+    url: jdbc:mysql://124.223.143.199:3306/mufengapi
+    username: root
+    password: Asdf0823
+  redis:
+    port: 6379
+    host: 124.223.143.199
+    database: 0
+    password: Asdf0823
